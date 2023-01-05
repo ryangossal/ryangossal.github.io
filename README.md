@@ -1,2 +1,2 @@
 # ryangossal.github.io
-theme : minima
+theme : minimal
